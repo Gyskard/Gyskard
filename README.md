@@ -7,7 +7,7 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
 #### Find me :mag_right:
 
 <p>
-  <a href="https://www.linkedin.com/in/thomas-margueritat/" target="_blank"><img alt="marguerit.at" src="https://img.shields.io/badge/MARGUERIT.AT-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /> 
+  <a href="https://marguerit.at" target="_blank"><img alt="marguerit.at" src="https://img.shields.io/badge/MARGUERIT.AT-%230A0A0A.svg?&style=for-the-badge" /> 
   <a href="https://www.linkedin.com/in/thomas-margueritat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 :email: thomas@marguerit.at
@@ -23,5 +23,12 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/Gyskard/web-monitor">web-monitor</a></td>
+      <td>A web application to display computer informations (CPU, RAM, OS...) using HTTP and websocket.</td>
+      <td>
+        <a href="https://vuejs.org/" target="_blank"><img alt="VueJS" src="https://img.shields.io/badge/-Vue.js-43853d?style=flat-square&logo=Vue.js&logoColor=white" /> <a href="https://fastapi.tiangolo.com/" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%230A0A0A.svg" /><a><img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-%230A0A0A.svg" /></a>
+      </td>
+    </tr>
   </tbody>
 </table>
