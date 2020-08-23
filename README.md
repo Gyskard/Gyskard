@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey!
+
+My name is Thomas Margueritat, a 22‑year‑old French guy :blush: 
+<br/>I'm an apprentice software engineer at Thales :satellite:
+<br/>I like SF literature, biking, cooking and computer science :computer:
+
+#### Find me 
+
 
 <!--
 **Gyskard/Gyskard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
