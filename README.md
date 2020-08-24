@@ -19,7 +19,14 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
       <td><a href="https://github.com/Gyskard/web-monitor">web-monitor</a></td>
       <td>A web application to display computer informations (CPU, RAM, OS...) using HTTP and websocket.</td>
       <td>
-        <a href="https://vuejs.org/" target="_blank"><img alt="VueJS" src="https://img.shields.io/badge/-Vue.js-43853d?style=flat-square&logo=Vue.js&logoColor=white" /> <a href="https://fastapi.tiangolo.com/" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%230A0A0A.svg" /><a><img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-%230A0A0A.svg" /></a>
+        <img alt="VueJS" src="https://img.shields.io/badge/-Vue.js-43853d?style=flat-square&logo=Vue.js&logoColor=white" /> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%230A0A0A.svg?style=flat-square" /> <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-%230A0A0A.svg?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Gyskard/my-website">my-website</a></td>
+      <td>My personal website where I introduce myself.</td>
+      <td>
+        <img alt="Cloudfare" src="https://img.shields.io/badge/-Cloudfare-F3802d?style=flat-square&logo=Cloudflare&logoColor=white" /> <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00AD9F?style=flat-square&logo=Netlify&logoColor=white" />
       </td>
     </tr>
   </tbody>
