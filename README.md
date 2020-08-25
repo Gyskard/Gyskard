@@ -4,6 +4,11 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
 <br/>I'm an apprentice software engineer at Thales :satellite:
 <br/>I like SF literature, biking, cooking and computer science :computer:
 
+<p>
+  <a href="https://marguerit.at" target="_blank"><img alt="marguerit.at" src="https://img.shields.io/badge/My website-%230A0A0A.svg?&style=for-the-badge" /> 
+  <a href="https://www.linkedin.com/in/thomas-margueritat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
 #### My (most interesting) projects
 
 <table>
@@ -64,9 +69,4 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
 
 #### Find me
 
-<p>
-  <a href="https://marguerit.at" target="_blank"><img alt="marguerit.at" src="https://img.shields.io/badge/MARGUERIT.AT-%230A0A0A.svg?&style=for-the-badge" /> 
-  <a href="https://www.linkedin.com/in/thomas-margueritat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</p>
-    
-:email: thomas@marguerit.at
+
