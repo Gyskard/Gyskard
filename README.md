@@ -30,7 +30,7 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gyskard/my-website">my-readings</a></td>
+      <td><a href="https://github.com/Gyskard/my-readings">my-readings</a></td>
       <td>Little website made with django to follow my readings and future readings.</td>
       <td>
         <img alt="VueJS" src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=Django&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-79589f?style=flat-square&logo=Heroku&logoColor=white" /> 
