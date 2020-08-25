@@ -11,7 +11,7 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
     <tr border: none;>
       <td><b>:floppy_disk: Project</b></td>
       <td><b>:bookmark_tabs: Description</b></td>
-      <td><b>:electric_plug: Technologies</b></td>
+      <td><b>:electric_plug: Techs</b></td>
     </tr>
   </thead>
   <tbody>
@@ -33,7 +33,7 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
       <td><a href="https://github.com/Gyskard/my-readings">my-readings</a></td>
       <td>Little website made with django to follow my readings and future readings.</td>
       <td>
-        <img alt="VueJS" src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=Django&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-79589f?style=flat-square&logo=Heroku&logoColor=white" /> 
+        <img alt="Django" src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=Django&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-79589f?style=flat-square&logo=Heroku&logoColor=white" /> 
       </td>
     </tr>
     <tr>
@@ -53,6 +53,14 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
     </tr>
   </tbody>
 </table>
+
+#### Techs I am currently learning about
+
+<img alt="VueJS" src="https://img.shields.io/badge/-Vue.js-43853d?style=flat-square&logo=Vue.js&logoColor=white" />
+
+#### Techs I want to learn about 
+
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-%230A0A0A.svg?style=flat-square&logo=Rust&logoColor=white" />
 
 #### Find me
 
