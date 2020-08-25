@@ -3,8 +3,6 @@
 My name is Thomas Margueritat, a 22‑year‑old French guy :blush: 
 <br/>I'm an apprentice software engineer at Thales :satellite:
 <br/>I like SF literature, biking, cooking and computer science :computer:
-<br /><br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyskard&layout=compact)](https://github.com/Gyskard?tab=repositories)
 
 #### My (most interesting) projects
 
