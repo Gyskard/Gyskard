@@ -4,7 +4,7 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
 <br/>I'm an apprentice software engineer at Thales :satellite:
 <br/>I like SF literature, biking, cooking and computer science :computer:
 
-#### My projects
+#### My (most interesting) projects
 
 <table>
   <thead align="center">
@@ -34,6 +34,21 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
       <td>Little website made with django to follow my readings and future readings.</td>
       <td>
         <img alt="VueJS" src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=Django&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-79589f?style=flat-square&logo=Heroku&logoColor=white" /> 
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Gyskard/perfect-password">perfect-password</a></td>
+      <td>A powerful password generator.</td>
+      <td>
+        <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" /> <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-106AB0?style=flat-square&logo=jQuery&logoColor=white" /> 
+      </td>
+    </tr>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Gyskard/ugly-snake">ugly-snake</a></td>
+      <td>Simple and ugly snake game.</td>
+      <td>
+        <img alt="Python" src="https://img.shields.io/badge/-Python-3673A6?style=flat-square&logo=Python&logoColor=white" /> 
       </td>
     </tr>
   </tbody>
