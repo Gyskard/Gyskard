@@ -66,7 +66,3 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
 #### Techs I want to learn about 
 
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-%230A0A0A.svg?style=flat-square&logo=Rust&logoColor=white" />
-
-#### Find me
-
-
