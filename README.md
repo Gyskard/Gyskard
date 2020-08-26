@@ -59,10 +59,23 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
   </tbody>
 </table>
 
-#### Techs I am currently learning about
+#### Today and tomorrow
 
-<img alt="VueJS" src="https://img.shields.io/badge/-Vue.js-43853d?style=flat-square&logo=Vue.js&logoColor=white" />
-
-#### Techs I want to learn about 
-
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-%230A0A0A.svg?style=flat-square&logo=Rust&logoColor=white" />
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>:rocket: Techs I am currently learning about</b></td>
+      <td><b>:mag_right: Techs I want to learn about </b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="VueJS" src="https://img.shields.io/badge/-Vue.js-43853d?style=flat-square&logo=Vue.js&logoColor=white" />
+      </td>
+      <td>
+        <img alt="Rust" src="https://img.shields.io/badge/-Rust-%230A0A0A.svg?style=flat-square&logo=Rust&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
