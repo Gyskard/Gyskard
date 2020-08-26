@@ -11,6 +11,10 @@ My name is Thomas Margueritat, a 22‑year‑old French guy :blush:
 
 #### My (most interesting) projects
 
+I really like to make projects, to improve my skills and for fun. 
+
+I have quite a few projects, but some are abandoned or not really interesting, here is a list of what I consider to be the best ones :
+
 <table>
   <thead align="center">
     <tr border: none;>
