@@ -16,9 +16,17 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Gyskard/my-journey">my-journey</a></td>
+      <td>A web application to memorize interesting events of life (parties, trips...) using a database.</td>
+      <td>2021-now</td>
+      <td>
+        <img alt="VueJS" src="https://img.shields.io/badge/-Vue.js-43853d?style=flat-square&logo=Vue.js&logoColor=white" /> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-05998B?style=flat-square" /><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Gyskard/my-website">my-website</a></td>
       <td>My personal website where I introduce myself.</td>
-      <td>2017-2021</td>
+      <td>2017-2022</td>
       <td>
         <img alt="Cloudfare" src="https://img.shields.io/badge/-Cloudfare-F3802d?style=flat-square&logo=Cloudflare&logoColor=white" /> <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00AD9F?style=flat-square&logo=Netlify&logoColor=white" /> 
       </td>
