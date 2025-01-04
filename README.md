@@ -26,7 +26,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gyskard/my-journey">obsidian-map-file-generator</a></td>
+      <td><a href="https://github.com/Gyskard/obsidian-map-file-generator">obsidian-map-file-generator</a></td>
       <td>A quick project to convert Google Maps urls into markdown file for the Obsidian plugin MapView..</td>
       <td>2024</td>
       <td>
@@ -44,7 +44,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gyskard/my-readings">my-notes</a></td>
+      <td><a href="https://github.com/Gyskard/my-noteds">my-notes</a></td>
       <td>Web application to manage markdown notes.</td>
       <td>2021</td>
       <td>
@@ -69,7 +69,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gyskard/web-monitor">naval-battle</a></td>
+      <td><a href="https://github.com/Gyskard/naval-battle">naval-battle</a></td>
       <td>Engineer school project to build a naval battle.</td>
       <td>2019</td>
       <td>
@@ -77,7 +77,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gyskard/web-monitor">studying-abroad</a></td>
+      <td><a href="https://github.com/Gyskard/studying-abroad">studying-abroad</a></td>
       <td>School project to build a website of testimonies with a map.</td>
       <td>2019</td>
       <td>
