@@ -44,7 +44,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gyskard/my-noteds">my-notes</a></td>
+      <td><a href="https://github.com/Gyskard/my-notes">my-notes</a></td>
       <td>Web application to manage markdown notes.</td>
       <td>2021</td>
       <td>
